@@ -17,7 +17,7 @@ The bot executes as follow:
 - 2FA enabled with Microsoft Authenticator
 
 ## Configuration
-
+- `pip install -r requirements.txt`
 - Add meeting link to **meetinglinks.py** as a variable
 - In **Bot.py** main function, change `bot.join_meeting(class_1)` to `bot.join_meeting(<your variable here>)`
 - Add your MS Teams credentials to **LoginCredentials.py**
