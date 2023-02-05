@@ -11,7 +11,7 @@ The bot executes as follow:
 6. Joins the meeting
 
 ## Prerequesites
-
+- Python3
 - Google Chrome
 - Microsoft account
 - 2FA enabled with Microsoft Authenticator
